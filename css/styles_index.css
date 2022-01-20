@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=PT+Serif&family=Roboto:wght@100;300&display=swap');
+
+body {
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+.main {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-link {   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(107, 107, 107, 0.027);
+    width: 35%;
+    height: 70%;
+    border: 1px solid rgba(197, 196, 196, 0.822);
+    border-radius: 4px;
+}
+
+.container-link a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 3px;
+} 
+
+.container-link span {
+    padding: 0 10px;
+} 
+
+.btn-register-link, .btn-login-link {
+    padding-top: 40px;
+}
+
+.btn-login-link a {
+    padding: 10 28px;
+}
+
+.text-btn-link-login, .text-btn-link-register {
+    font-size: 13px;
+    color: gray;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
