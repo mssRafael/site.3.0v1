@@ -16,7 +16,7 @@
                 <div class="text-btn-link-register"><strong>É novo no site?</strong></div>
             </div>
             <div class="btn-login-link">
-                <a href="#"><i class="fas fa-address-card"></i><span>Logar-se</span></a>
+                <a href="form_login.php"><i class="fas fa-address-card"></i><span>Logar-se</span></a>
                 <div class="text-btn-link-login"><strong>Já tem uma conta?</strong></div>
             </div>
         </div>

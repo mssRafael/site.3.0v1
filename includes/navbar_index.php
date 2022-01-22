@@ -47,7 +47,7 @@
             <h2>TechShop Web</h2>
         </div>
         <div class="btn-skip">
-            <a href="homepage/home.php"><i class="fas fa-sign-out-alt"><span>Pular</span></i></a>
+            <a href="home_page/home.php"><i class="fas fa-sign-out-alt"><span>Pular</span></i></a>
         </div>
     </header>
 </body>
